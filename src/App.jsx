@@ -1,7 +1,7 @@
 import React from "react";
 
 const App = () => {
-  return <h1 className=" text-red-500">Devesh</h1>;
+  return <h1 className=" text-red-500">Rathod</h1>;
 };
 
 export default App;
